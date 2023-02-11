@@ -9,6 +9,7 @@
   "author": "ceotyz",
   "license": "ISC",
   "dependencies": {
-    "@azure/search-documents": "^11.3.1"
+    "@azure/search-documents": "^11.3.1",
+    "mocha": "^10.2.0"
   }
 }
